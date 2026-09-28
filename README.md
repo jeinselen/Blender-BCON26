@@ -2,6 +2,10 @@
 
 > How does a technical artist approach realtime effects? Using examples from an immersive XR headset experience, industry veteran John Einselen (motion design and technical director at Launch) will walk through some of his approaches; from prototyping within Blender to building final assets and integrating them in realtime game engines.
 
+[![Mathemagics: Building Assets for Realtime Effects - Blender Conference 2026](http://img.youtube.com/vi/vEkQnQOBK2A/0.jpg)](http://www.youtube.com/watch?v=vEkQnQOBK2A)
+
+[Watch on YouTube](https://www.youtube.com/watch?v=vEkQnQOBK2A)
+
 
 
 ## Presentation Content
